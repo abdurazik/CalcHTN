@@ -1,0 +1,43 @@
+
+
+
+//Fl only
+1:H
+2:F
+3:F,H
+
+//Cl Only
+4:Cl
+5:Cl,H
+
+//Br Only
+8:Br
+9:Br,H
+
+//I Only
+G:I
+H:I,H
+
+
+//Mixture of Halogens
+6:Cl,F
+7:Cl,F,H
+A:Br,F
+B:Br,F,H
+C:Br,Cl
+D:Br,Cl,H
+E:Br,Cl,F,H
+J:I,F
+K:I,F,H
+L:I,Cl
+M:I,Cl,H
+N:I,Cl,F
+P:I,Cl,F,H
+R:I,Br
+S:I,Br,H
+T:I,Br,F
+U:I,Br,F,H
+V:I,Br,Cl
+W:I,Br,Cl,H
+X:I,Br,Cl,F
+Y:I,Br,Cl,F,H
